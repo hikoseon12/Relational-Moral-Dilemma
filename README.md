@@ -6,6 +6,12 @@ Code and data for the ACL 2026 Findings paper:
 > Jiseon Kim, Jea Kwon, Luiz Felipe Vecchietti, Wenchao Dong, Jaehong Kim, Meeyoung Cha.
 > arXiv: https://arxiv.org/abs/2604.21871
 
+<p align="center">
+  <img src="img/overview.png" alt="Study overview" width="720"/>
+</p>
+
+> High-resolution PDF: [`img/overview.pdf`](img/overview.pdf)
+
 ## What this repo contains
 
 This release reproduces the main results of the paper. We probe LLMs on the
